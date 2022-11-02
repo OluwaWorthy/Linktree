@@ -1,0 +1,25 @@
+{
+  "name": "connect",
+  "version": "1.0.0",
+  "description": "Profile and Socials stg1",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwaworthy/Profile-and-Social.git"
+  },
+  "author": "Oluwatee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwaworthy/Profile-and-Social/issues"
+  },
+  "homepage": "https://github.com/Oluwaworthy/Profile-and-Social#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "tar": "^6.1.12"
+  }
+}
